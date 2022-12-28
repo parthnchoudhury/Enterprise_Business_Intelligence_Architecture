@@ -17,7 +17,7 @@ This scenario shows how data can be ingested into a cloud environment from an on
 
 The following steps build on the Azure Synapse Analytics end-to-end scenario. It uses Azure Pipelines to ingest data from a SQL database into Azure Synapse SQL pools, then transforms the data for analysis.
 
-![image](https://user-images.githubusercontent.com/76818972/209816208-5e03156f-9865-45f9-8c19-a1b949d1d469.png)
+![image](https://user-images.githubusercontent.com/76818972/209845148-002f4603-cbe3-45ba-94e7-57ed53cdde38.png)
 
 # Workflow
 
