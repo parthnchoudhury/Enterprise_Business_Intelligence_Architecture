@@ -33,3 +33,8 @@ The source data is located in an SQL Server database in Azure. To simulate the o
 
 ## Analysis and reporting
 The data-modeling approach in this scenario is presented by combining the enterprise model and BI Semantic model. The enterprise model is stored in an Azure Synapse dedicated SQL pool, and the BI Semantic model is stored in Power BI Premium capacities. Power BI accesses the data via DirectQuery.
+
+# About Me :sunglasses: #
+- With 12+ years of industry experience, I have thrived in Data Science, Data Governance, IT, Cloud and Product Management. I have a keen interest and expertise in solving business problems using unique logic and analytics. I bring solutions to the table based on competitive Business Acumen and Human Intelligence.
+- Have a look at my portfolio: [Helping organizations level all their Business arguments using Data & Technology (AI-Powered) | Ex_SyngentaAG | Ex_Zalando | Ex_Freecharge | Ex_Myntra Jabong | Ex_Supercell | Ex_Infosys](https://www.linkedin.com/in/ianthropos/)
+- I love talking about #cloudarchitecture, #businessanalytics, #softwareengineerng, #datapipelines, #machinelearning, and #artificialintelligence
